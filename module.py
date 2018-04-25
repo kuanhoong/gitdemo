@@ -2,4 +2,8 @@
 
 import datetime
 
-print (datimetime.date.today())
+print (datetime.date.today())
+
+## add a new function
+
+print (datetime.date.time())
